@@ -1,13 +1,11 @@
-[AL-Mateen Osman itech.html](https://github.com/user-attachments/files/27392912/AL-Mateen.Osman.itech.html)
+(https://github.com/user-attachments/files/27392912/AL-Mateen.Osman.itech.html)
 <!DOCTYPE html>
-<!-- saved from url=(0054)file:///C:/Users/user/Documents/codes/data%20site.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
         <title> AL-Mateen Osman itech </title>
         <meta name="keywords" content="HTML, Meta tags, metadata"> <meta name="description" contrnt="Al-Mateen data hub.">
         <meta http-equiv="cookie" content="userid=xyz; expires=90 days after purchased">
     </head>
     <body style="background-color: rgb(123, 177, 247);" <p="">
-        <!--Background color-->
         <h1><b><u><center>Al-Mateen Data Hub</center></u></b></h1>
         <div id="content" align="left" bgcolor="blue"></div>
         Buy <del>Expensive data </del><insert><mark> Buy cheap data for all networks</mark></insert><p></p>
@@ -32,9 +30,5 @@
         <input type="submit" value="Become a Sub Agent">
         <h3><u><b><center>You can send messages through my E-Mail</center></b></u></h3>
         <p>No spam </p>
-        
-        <input type="submit" value="Message">
-        </form>
-    
-
 </body></html>
+                                        
