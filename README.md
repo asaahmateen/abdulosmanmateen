@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/27392912/AL-Mateen.Osman.itech.html)
 <!DOCTYPE html>
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
         <title> AL-Mateen Osman itech </title>
